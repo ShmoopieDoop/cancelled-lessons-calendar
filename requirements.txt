@@ -1,2 +1,2 @@
 selenium
-BeautifulSoup
+beautifulsoup4
